@@ -1,6 +1,6 @@
 # Citizen Assist AI
 
-Assistente de terminal feito em Python para a Global Solution 2026.2 de Pensamento Computacional e Automação com Python (FIAP).
+Assistente de terminal feito em Python para a Global Solution 2026.2 de Pensamento Computacional e Automação com Python.
 
 ## Integrantes
 
