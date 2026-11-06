@@ -1,0 +1,237 @@
+[
+  {
+    "id": 1,
+    "categoria": "Documentos",
+    "titulo": "Tirar o CPF pela primeira vez",
+    "palavras_chave": [
+      "cpf",
+      "tirar cpf",
+      "fazer cpf",
+      "cadastro de pessoa fisica"
+    ],
+    "resposta": "A inscrição é gratuita pelo site da Receita Federal ou em uma unidade da Receita. No Banco do Brasil, na Caixa, nos Correios e em cartório de registro civil custa R$ 7,00. Quem tem menos de 16 anos precisa que o pai, a mãe ou o responsável faça o pedido.",
+    "documentos": [
+      "Documento oficial com foto",
+      "Certidão de nascimento ou casamento, se o documento com foto não mostrar filiação, naturalidade e data de nascimento"
+    ],
+    "onde": "Site ou unidade da Receita Federal (grátis). Banco do Brasil, Caixa, Correios ou cartório de registro civil (R$ 7,00)",
+    "fonte": "https://www.gov.br/pt-br/servicos/inscrever-no-cpf",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 2,
+    "categoria": "Documentos",
+    "titulo": "Tirar a Carteira de Identidade Nacional (CIN)",
+    "palavras_chave": [
+      "rg",
+      "identidade",
+      "carteira de identidade",
+      "cin"
+    ],
+    "resposta": "A primeira emissão em papel é gratuita e o modelo em cartão é pago. O pedido é feito no órgão de identificação civil do seu estado. Quem tem menos de 18 anos precisa de um CPF válido e, se não tiver, pode fazer no próprio órgão com o responsável. A versão digital fica no aplicativo gov.br.",
+    "documentos": [
+      "Certidão de nascimento ou casamento atualizada",
+      "Número do CPF"
+    ],
+    "onde": "Órgão de identificação civil do seu estado ou do Distrito Federal",
+    "fonte": "https://www.gov.br/governodigital/pt-br/identidade/cin/perguntas-frequentes-sobre-a-cin",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 3,
+    "categoria": "Documentos",
+    "titulo": "Tirar o primeiro título de eleitor",
+    "palavras_chave": [
+      "titulo de eleitor",
+      "titulo eleitoral",
+      "votar",
+      "titulo net"
+    ],
+    "resposta": "Dá para pedir a partir dos 15 anos, mas só vota quem tem 16 no dia da eleição. O pedido pode ser feito pela internet no Autoatendimento Eleitoral ou direto no cartório. No primeiro título é preciso ir ao cartório para cadastrar a biometria. Em ano de eleição o cadastro fecha por alguns meses.",
+    "documentos": [
+      "Documento oficial com foto, como carteira de identidade, carteira de trabalho ou passaporte",
+      "Comprovante de residência recente",
+      "Comprovante de quitação do serviço militar, para homens que completam 19 anos no ano do pedido"
+    ],
+    "onde": "Autoatendimento Eleitoral no site do TSE, cartório eleitoral ou posto de atendimento da Justiça Eleitoral",
+    "fonte": "https://www.tse.jus.br/comunicacao/noticias/2026/Marco/eleitor-em-dia-confira-quais-documentos-sao-necessarios-para-tirar-o-titulo-ate-6-de-maio",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 4,
+    "categoria": "Documentos",
+    "titulo": "Fazer o alistamento militar",
+    "palavras_chave": [
+      "alistamento",
+      "alistar",
+      "servico militar",
+      "exercito",
+      "junta militar"
+    ],
+    "resposta": "É obrigatório para homens. O prazo vai de 1º de janeiro a 30 de junho do ano em que a pessoa faz 18 anos, e dá para fazer pela internet. Depois do prazo, só presencialmente na Junta de Serviço Militar e pagando multa. Quem está em débito pode ter problema para tirar passaporte e entrar em cargo público.",
+    "documentos": [
+      "Pela internet: número do CPF e dados pessoais",
+      "Na Junta: certidão de nascimento e comprovante de residência ou declaração assinada",
+      "Na Junta, é bom levar também um documento oficial com foto"
+    ],
+    "onde": "Site alistamento.eb.mil.br ou Junta de Serviço Militar da sua cidade",
+    "fonte": "https://www.gov.br/pt-br/servicos/alistar-se-no-servico-militar-obrigatorio",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 5,
+    "categoria": "Trabalho",
+    "titulo": "Fazer a Carteira de Trabalho Digital",
+    "palavras_chave": [
+      "carteira de trabalho",
+      "ctps",
+      "carteira digital",
+      "trabalho digital"
+    ],
+    "resposta": "É gratuita e não precisa ir a nenhum posto. Baixe o aplicativo Carteira de Trabalho Digital ou entre no site do gov.br e faça o login. Na contratação, normalmente basta informar o CPF para a empresa.",
+    "documentos": [
+      "CPF",
+      "Conta gov.br"
+    ],
+    "onde": "Aplicativo Carteira de Trabalho Digital ou site gov.br",
+    "fonte": "https://www.gov.br/pt-br/servicos/obter-a-carteira-de-trabalho",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 6,
+    "categoria": "Trabalho",
+    "titulo": "Entrar no programa Jovem Aprendiz",
+    "palavras_chave": [
+      "jovem aprendiz",
+      "aprendiz",
+      "aprendizagem",
+      "contrato de aprendizagem"
+    ],
+    "resposta": "É para quem tem a partir de 14 anos e ainda não completou 24. Quem não terminou o ensino médio precisa estar matriculado e indo à escola. A contratação fica ligada a um curso de uma entidade formadora, como Senai e Senac. O contrato dura no máximo 2 anos, com carteira assinada, FGTS, 13º e férias.",
+    "documentos": [
+      "Comprovante de matrícula escolar, se ainda não terminou o ensino médio",
+      "Os outros documentos são informados pela empresa ou pela entidade formadora"
+    ],
+    "onde": "Entidade formadora habilitada da sua cidade (a lista está na página do Ministério do Trabalho e Emprego) ou empresa contratante",
+    "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br/noticias-e-conteudo/2026/julho/aprendizagem-profissional-regras-direitos-e-funcionamento-do-contrato-de-aprendizagem",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 7,
+    "categoria": "Trabalho",
+    "titulo": "Procurar vagas de emprego pelo Sine",
+    "palavras_chave": [
+      "vaga",
+      "vagas",
+      "sine",
+      "primeiro emprego",
+      "procurar emprego",
+      "procurar trabalho",
+      "emprega brasil"
+    ],
+    "resposta": "As vagas do Sine aparecem no aplicativo da Carteira de Trabalho Digital, na aba de vagas. Preencha seu perfil profissional e endereço, porque as vagas são cruzadas com esses dados. Também dá para procurar no Portal Emprega Brasil ou em uma agência do Sine.",
+    "documentos": [
+      "Conta gov.br"
+    ],
+    "onde": "Aplicativo Carteira de Trabalho Digital, Portal Emprega Brasil ou agência do Sine",
+    "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br/noticias-e-conteudo/2025/janeiro/vagas-de-emprego-do-sine-podem-ser-visualizadas-na-carteira-de-trabalho-digital",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 8,
+    "categoria": "Trabalho",
+    "titulo": "Pedir o Seguro-Desemprego",
+    "palavras_chave": [
+      "seguro desemprego",
+      "demitido",
+      "demissao",
+      "justa causa"
+    ],
+    "resposta": "É para quem foi demitido sem justa causa e não tem outra renda suficiente. No primeiro pedido, é preciso ter recebido salário em pelo menos 12 dos últimos 18 meses. O pedido é feito pelo site gov.br ou pelo aplicativo da Carteira de Trabalho Digital. O valor e as datas das parcelas aparecem lá também.",
+    "documentos": [
+      "Requerimento do Seguro-Desemprego entregue pelo empregador",
+      "CPF"
+    ],
+    "onde": "Site gov.br ou aplicativo Carteira de Trabalho Digital",
+    "fonte": "https://www.gov.br/pt-br/servicos/solicitar-o-seguro-desemprego",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 9,
+    "categoria": "Estudos e benefícios",
+    "titulo": "Pedir isenção da taxa do Enem",
+    "palavras_chave": [
+      "enem",
+      "taxa do enem",
+      "isencao",
+      "pagina do participante"
+    ],
+    "resposta": "O pedido é feito na Página do Participante, em um prazo definido no edital de cada ano. O prazo de 2026 já acabou. Podem pedir alunos do 3º ano em escola pública, quem fez todo o ensino médio em escola pública ou como bolsista integral e tem renda de até 1,5 salário mínimo, quem está no CadÚnico e participantes do Pé-de-Meia. Mesmo com a isenção, ainda é preciso fazer a inscrição.",
+    "documentos": [
+      "Conta gov.br"
+    ],
+    "onde": "Página do Participante do Enem, no site do Inep",
+    "fonte": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/enem/enem-2026-saiba-quem-tem-direito-a-isencao-da-taxa-de-inscricao",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 10,
+    "categoria": "Estudos e benefícios",
+    "titulo": "Emitir a ID Jovem (Identidade Jovem)",
+    "palavras_chave": [
+      "id jovem",
+      "identidade jovem",
+      "meia entrada",
+      "viagem gratuita"
+    ],
+    "resposta": "É para jovens de 15 a 29 anos, com renda familiar de até 2 salários mínimos e CadÚnico atualizado nos últimos 24 meses. Dá 50% de desconto em cinema, teatro, shows e eventos esportivos, além de vagas gratuitas ou com 50% de desconto em viagens interestaduais. Vale por 365 dias e depois é preciso emitir de novo.",
+    "documentos": [
+      "Número do NIS ou CPF",
+      "Nome completo",
+      "Data de nascimento"
+    ],
+    "onde": "Aplicativo ID Jovem ou site idjovem.juventude.gov.br. Se o CadÚnico estiver desatualizado, procure um Cras",
+    "fonte": "https://www.gov.br/pt-br/servicos/obter-a-carteira-de-identidade-jovem",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 11,
+    "categoria": "Consumidor",
+    "titulo": "Reclamar de uma empresa no Consumidor.gov.br",
+    "palavras_chave": [
+      "reclamar",
+      "reclamacao",
+      "consumidor",
+      "procon",
+      "produto com defeito",
+      "compra deu errado"
+    ],
+    "resposta": "Se a empresa estiver cadastrada na plataforma, registre a reclamação e conte o que aconteceu. O serviço é gratuito e a empresa tem até 10 dias para responder. Depois, você informa se o problema foi resolvido.",
+    "documentos": [
+      "Conta gov.br prata ou ouro",
+      "Nota fiscal, comprovante de pagamento, contrato ou protocolo de atendimento, se tiver"
+    ],
+    "onde": "Site consumidor.gov.br",
+    "fonte": "https://www.gov.br/mj/pt-br/assuntos/noticias/consumidor-gov-br-saiba-como-registrar-uma-reclamacao-pela-plataforma",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 12,
+    "categoria": "Consumidor",
+    "titulo": "Desistir de uma compra feita pela internet",
+    "palavras_chave": [
+      "desistir da compra",
+      "arrependimento",
+      "devolver",
+      "cancelar compra",
+      "comprei pela internet"
+    ],
+    "resposta": "Em compra feita fora da loja, como pela internet ou por telefone, você pode desistir em até 7 dias, contados da assinatura ou do recebimento do produto. O que foi pago deve ser devolvido. Essa regra está no artigo 49 do Código de Defesa do Consumidor.",
+    "documentos": [
+      "Nota fiscal ou comprovante da compra"
+    ],
+    "onde": "Direto com o vendedor. Se ele não resolver, consumidor.gov.br",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+    "verificado_em": "2026-11-05"
+  }
+]

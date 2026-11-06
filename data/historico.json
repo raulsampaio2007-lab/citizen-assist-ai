@@ -1,0 +1,167 @@
+[
+  {
+    "data": "2026-11-05 20:58",
+    "origem": "pergunta",
+    "pergunta": "como eu faço o cpf?",
+    "id_orientacao": 1,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 0.0,
+    "nota": null
+  },
+  {
+    "data": "2026-11-05 20:58",
+    "origem": "pergunta",
+    "pergunta": "quero fazer a carteira de trabalho",
+    "id_orientacao": 5,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 0.0,
+    "nota": null
+  },
+  {
+    "data": "2026-11-05 20:58",
+    "origem": "pergunta",
+    "pergunta": "como virar jovem aprendiz",
+    "id_orientacao": 6,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 0.0,
+    "nota": null
+  },
+  {
+    "data": "2026-11-05 20:58",
+    "origem": "pergunta",
+    "pergunta": "quero me alistar no exercito",
+    "id_orientacao": 4,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 0.0,
+    "nota": null
+  },
+  {
+    "data": "2026-11-05 20:58",
+    "origem": "pergunta",
+    "pergunta": "como pedir isenção do enem",
+    "id_orientacao": 9,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 0.0,
+    "nota": null
+  },
+  {
+    "data": "2026-11-05 20:58",
+    "origem": "pergunta",
+    "pergunta": "comprei pela internet e quero devolver",
+    "id_orientacao": 12,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 0.0,
+    "nota": null
+  },
+  {
+    "data": "2026-11-05 20:58",
+    "origem": "pergunta",
+    "pergunta": "como reclamar de uma loja",
+    "id_orientacao": 11,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 0.0,
+    "nota": null
+  },
+  {
+    "data": "2026-11-05 20:58",
+    "origem": "pergunta",
+    "pergunta": "quero tirar meu rg",
+    "id_orientacao": 2,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 0.0,
+    "nota": null
+  },
+  {
+    "data": "2026-11-05 20:58",
+    "origem": "pergunta",
+    "pergunta": "perdi meu rg, o que eu faço?",
+    "id_orientacao": 2,
+    "encontrou": true,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 0.0,
+    "nota": null
+  },
+  {
+    "data": "2026-11-05 20:58",
+    "origem": "pergunta",
+    "pergunta": "como procurar trabalho",
+    "id_orientacao": null,
+    "encontrou": false,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 0.0,
+    "nota": null
+  },
+  {
+    "data": "2026-11-05 20:58",
+    "origem": "pergunta",
+    "pergunta": "como tirar a cnh",
+    "id_orientacao": null,
+    "encontrou": false,
+    "ajudou": false,
+    "tentativas": 2,
+    "tempo_segundos": 0.0,
+    "nota": null
+  },
+  {
+    "data": "2026-11-05 20:58",
+    "origem": "categoria",
+    "pergunta": "Emitir a ID Jovem (Identidade Jovem)",
+    "id_orientacao": 10,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 0.0,
+    "nota": null
+  },
+  {
+    "data": "2026-11-05 20:59",
+    "origem": "pergunta",
+    "pergunta": "como procurar trabalho",
+    "id_orientacao": 7,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 0.0,
+    "nota": null
+  },
+  {
+    "data": "2026-11-06 11:32",
+    "origem": "pergunta",
+    "pergunta": "Como tiro o titulo de eleitor?",
+    "id_orientacao": 3,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 33.4,
+    "nota": 4
+  },
+  {
+    "data": "2026-11-06 11:34",
+    "origem": "pergunta",
+    "pergunta": "com quantos anos eu posso tirar o titulo de eleitor",
+    "id_orientacao": 3,
+    "encontrou": true,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 159.0,
+    "nota": 4
+  }
+]
