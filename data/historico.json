@@ -163,5 +163,93 @@
     "tentativas": 1,
     "tempo_segundos": 159.0,
     "nota": 4
+  },
+  {
+    "data": "2026-11-09 21:55",
+    "origem": "pergunta",
+    "pergunta": "Como tirar o título de eleitor?",
+    "id_orientacao": 3,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 27.8,
+    "nota": null
+  },
+  {
+    "data": "2026-11-09 22:01",
+    "origem": "pergunta",
+    "pergunta": "Como tirar o título de eleitor",
+    "id_orientacao": 3,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 27.7,
+    "nota": null
+  },
+  {
+    "data": "2026-11-09 22:02",
+    "origem": "pergunta",
+    "pergunta": "Como eu tiro o passaporte",
+    "id_orientacao": null,
+    "encontrou": false,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 52.2,
+    "nota": null
+  },
+  {
+    "data": "2026-11-09 22:02",
+    "origem": "categoria",
+    "pergunta": "Fazer a Carteira de Trabalho Digital",
+    "id_orientacao": 5,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 8.6,
+    "nota": null
+  },
+  {
+    "data": "2026-11-09 23:17",
+    "origem": "pergunta",
+    "pergunta": "como tirar o titulo de eleitor",
+    "id_orientacao": 3,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 25.9,
+    "nota": null
+  },
+  {
+    "data": "2026-11-09 23:18",
+    "origem": "pergunta",
+    "pergunta": "como eu tiro o passaporte",
+    "id_orientacao": null,
+    "encontrou": false,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 66.1,
+    "nota": null
+  },
+  {
+    "data": "2026-11-09 23:19",
+    "origem": "categoria",
+    "pergunta": "Fazer a Carteira de Trabalho Digital",
+    "id_orientacao": 5,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 12.0,
+    "nota": null
+  },
+  {
+    "data": "2026-11-09 23:37",
+    "origem": "pergunta",
+    "pergunta": "fui mandado embora o que eu faço?",
+    "id_orientacao": null,
+    "encontrou": false,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 20.9,
+    "nota": 5
   }
 ]

@@ -84,18 +84,21 @@ Conferidas em 05/11/2026.
 
 ## Resultado do teste com usuários
 
-Não fizemos o teste com pessoas de fora da equipe, então estes números não mostram como um usuário real se sairia. A equipe testou o programa na mão, fazendo 3 atendimentos, e 2 deles estão no histórico (o terceiro foi retirado, como explicado abaixo). Para chegar a mais casos, completamos com 13 atendimentos de um teste automatizado, em que um script passou as perguntas e as respostas s/n ao programa. O histórico tem 15 atendimentos no total.
+Não fizemos o teste com pessoas de fora da equipe, então estes números não mostram como um usuário real se sairia. O histórico tem 23 atendimentos: 13 de um teste automatizado, em que um script passou as perguntas e as respostas s/n ao programa, e 10 feitos na mão pela equipe, nos testes e na gravação do vídeo.
 
-- Total de atendimentos: 15
-- Resposta encontrada: 86,7%
-- Taxa de acerto: 73,3%
-- Tentativas por atendimento: 1,1
-- Tempo médio para encontrar: 14,8 s no total, mas esse número fica baixo porque o script responde na hora. Nos 2 atendimentos feitos na mão, a média foi de 96,2 s.
-- Facilidade de uso (1 a 5): 4,0, nota dada por um integrante da equipe. O script não deu nota.
-- Dúvidas sem solução: "perdi meu rg, o que eu faço?", "como procurar trabalho" (resolvida com a melhoria abaixo), "como tirar a cnh" e "com quantos anos eu posso tirar o titulo de eleitor".
+- Total de atendimentos: 23
+- Resposta encontrada: 78,3%
+- Taxa de acerto: 69,6%
+- Tentativas por atendimento: 1,0
+- Tempo médio para encontrar: 16,4 s no total, mas esse número fica baixo porque o script responde na hora. Nos atendimentos feitos na mão, a média foi de 42,1 s.
+- Facilidade de uso (1 a 5): 4,3, com notas dadas pela equipe. O script não deu nota.
+- Dúvidas sem solução: "perdi meu rg, o que eu faço?", "como tirar a cnh", "com quantos anos eu posso tirar o titulo de eleitor" e "como eu tiro o passaporte" (essa foi usada de propósito no vídeo, porque não está na base). Também aparecem "como procurar trabalho" e "fui mandado embora o que eu faço?", que foram resolvidas com as melhorias abaixo.
 - Melhoria feita a partir do teste: "como procurar trabalho" não foi encontrada, porque a base só tinha "procurar emprego". Incluímos a palavra-chave "procurar trabalho" na orientação 7 e a mesma pergunta passou a encontrar a orientação, com 4 pontos e confiança MÉDIA.
+- Alteração feita ao vivo no vídeo: "fui mandado embora, o que eu faço?" não era encontrada. Incluímos "mandado embora" nas palavras-chave da orientação 8 e ela passou a encontrar o Seguro-Desemprego, com 3 pontos e confiança MÉDIA.
 
-Tiramos do histórico um terceiro atendimento feito na mão ("Como tirar o titulo de eleitor?", marcado como não ajudou), porque ele registrou 52.556 s. O programa tinha ficado aberto de um dia para o outro na tela de pergunta e o contador continuou rodando.
+Os indicadores que aparecem no vídeo mostram 15 atendimentos porque foram gravados antes das partes 5 e 6. Os atendimentos dessas gravações entraram no histórico depois.
+
+Tiramos do histórico um atendimento feito na mão ("Como tirar o titulo de eleitor?", marcado como não ajudou), porque ele registrou 52.556 s. O programa tinha ficado aberto de um dia para o outro na tela de pergunta e o contador continuou rodando.
 
 ## Limitações
 
@@ -111,4 +114,4 @@ Tiramos do histórico um terceiro atendimento feito na mão ("Como tirar o titul
 
 ## Vídeo
 
-PREENCHER: link do YouTube (não listado).
+https://youtu.be/fEjlsDXn8zA (não listado)

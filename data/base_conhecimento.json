@@ -145,7 +145,8 @@
       "seguro desemprego",
       "demitido",
       "demissao",
-      "justa causa"
+      "justa causa",
+      "mandado embora"
     ],
     "resposta": "É para quem foi demitido sem justa causa e não tem outra renda suficiente. No primeiro pedido, é preciso ter recebido salário em pelo menos 12 dos últimos 18 meses. O pedido é feito pelo site gov.br ou pelo aplicativo da Carteira de Trabalho Digital. O valor e as datas das parcelas aparecem lá também.",
     "documentos": [
